@@ -1,0 +1,5 @@
+Rows count:
+Left Outer: 10
+Inner: 9
+Full Outer: 11
+Left Anti joins: 1
